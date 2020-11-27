@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "orientjs": "^3.0.11"
+  },
+  "name": "OrientDB",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhglhf/OrientDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhglhf/OrientDB/issues"
+  },
+  "homepage": "https://github.com/minhglhf/OrientDB#readme"
+}
